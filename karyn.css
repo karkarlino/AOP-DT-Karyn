@@ -579,3 +579,26 @@ body {
         padding: 10px;
     }
 }
+
+
+.karyn-education-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+}
+
+.karyn-education-school {
+    display: block;
+}
+
+.karyn-education-year {
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    color: #6D8D6B;
+}
+
+.karyn-details {
+    min-height: 790px;
+}
